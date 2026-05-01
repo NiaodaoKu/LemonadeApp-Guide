@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "migrate:legacy-sample": "node firebase/functions/src/migration/runLegacySetMigration.js",
+    "test:firebase-parser": "node --test firebase/functions/test/*.test.js"
+  },
   "dependencies": {
     "@types/google-apps-script": "^2.0.8"
   }
