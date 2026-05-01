@@ -1,0 +1,14 @@
+# Secrets and local config
+client_secret*.json
+.clasp.json
+.env
+.env.*
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

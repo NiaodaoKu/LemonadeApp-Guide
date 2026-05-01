@@ -1,0 +1,7 @@
+client_secret*.json
+node_modules/
+package.json
+package-lock.json
+manifest.json
+sw.js
+icon.png

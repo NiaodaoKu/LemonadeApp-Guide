@@ -1,0 +1,25 @@
+{
+  "name": "LexiPulse",
+  "short_name": "LexiPulse",
+  "description": "Spaced Repetition 單字學習系統",
+  "start_url": "/LexiPulse/",
+  "scope": "/LexiPulse/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
